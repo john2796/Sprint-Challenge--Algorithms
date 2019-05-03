@@ -32,27 +32,28 @@ You have three hours to complete this Sprint Challenge. Plan your time according
 
 You have been given a robot with very basic capabilities:
 
-  * It can move left or right.
-  * It can pick up an item
-    * If it tries to pick up an item while already holding one, it will swap the items instead.
-  * It can compare the item it's holding to the item in front of it.
-  * It can switch a light on its head on or off.
+  * [x] It can move left or right.
+  *[x] It can pick up an item
+    *[x] If it tries to pick up an item while already holding one, it will swap the items instead.
+  * [x]It can compare the item it's holding to the item in front of it.
+  * [x]It can switch a light on its head on or off.
 
 Your task is to program this robot to sort lists using ONLY these abilities.
-
 #### Rules
 
 Inside the `Robot_Sort` directory you'll find the `robot_sort.py` file. Open it up and read through each of the robot's abilities. Once you've understood those, start filling out the `sort()` method following these rules:
 
   * You may use any pre-defined robot methods.
-  * You may NOT modify any pre-defined robot methods.
   * You may use logical operators. (`if`, `and`, `or`, `not`, etc.)
   * You may use comparison operators. (`>`, `>=`, `<`, `<=`, `==`, `is`, etc.)
   * You may use iterators. (`while`, `for`, `break`, `continue`)
+  * You may define robot helper methods, as long as they follow all the rules.
+  
+  
+  * You may NOT modify any pre-defined robot methods.
   * You may NOT store any variables. (`=`)
   * You may NOT access any instance variables directly. (`self._anything`)
   * You may NOT use any Python libraries or class methods. (`sorted()`, etc.)
-  * You may define robot helper methods, as long as they follow all the rules.
 
 #### Hints
 
