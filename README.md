@@ -1,8 +1,8 @@
 # Sprint Challenge: Algorithms
 
-In this week's Sprint you explored and implemented some classic algorithmic approaches and used them to solve novel problems. You also implemented some classic and fundamental sorting algorithms and learned about how to go about evaluating their respective runtimes and performance. This Sprint Challenge aims to assess your comfort with these topics through exercises that build on the algorithmic intuition you've started to build up.
+[x] In this week's Sprint you explored and implemented some classic algorithmic approaches and used them to solve novel problems. You also implemented some classic and fundamental sorting algorithms and learned about how to go about evaluating their respective runtimes and performance. This Sprint Challenge aims to assess your comfort with these topics through exercises that build on the algorithmic intuition you've started to build up.
 
-## Instructions
+##[x] Instructions
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -16,17 +16,17 @@ You have three hours to complete this Sprint Challenge. Plan your time according
 
 ## Commits
 
-Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and it also helps your project manager to more thoroughly assess your work.
+[x] Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and it also helps your project manager to more thoroughly assess your work.
 
 ## Description
 
-This Sprint Challenge is split into two separate parts that test your ability to write and analyze algorithms.
+[x] This Sprint Challenge is split into two separate parts that test your ability to write and analyze algorithms.
 
 ### 1. Short Answer Questions (30 points)
 
- > It is recommended that you spend no more than 1 hour on this portion of the Sprint Challenge.
+ >[x] It is recommended that you spend no more than 1 hour on this portion of the Sprint Challenge.
 
-For this portion of the Sprint Challenge, you'll be answering questions posed in the `Algorithms_Questions.md` document inside the `Short-Answer` directory. Write down your answer and also write down a justification for _why_ you put down that answer. This could net you some partial credit if your justification is sound but the answer you put down turns out to not be correct. Add your answers to the questions in the `Algorithms_Answers.md` file.
+[x]For this portion of the Sprint Challenge, you'll be answering questions posed in the `Algorithms_Questions.md` document inside the `Short-Answer` directory. Write down your answer and also write down a justification for _why_ you put down that answer. This could net you some partial credit if your justification is sound but the answer you put down turns out to not be correct. Add your answers to the questions in the `Algorithms_Answers.md` file.
 
 ### 2. Implement Robot Sort (60 points)
 
